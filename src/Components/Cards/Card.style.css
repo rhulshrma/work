@@ -1,0 +1,27 @@
+.card-container{
+    z-index: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.text-center{
+    overflow: hidden;
+    width: 60%;
+    border-radius: 20px !important;
+}
+
+.text-footer{
+    background-color: blue;
+    
+}
+/* .text-header{
+    z-index: 2;
+    border-radius: 0px;
+    background-color: blue;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: center;
+    height: 3rem;
+    
+} */

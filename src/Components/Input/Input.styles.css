@@ -1,0 +1,25 @@
+.input-container{
+    padding: 1rem;
+    background-color: white;
+}
+.wrapper{
+    padding-left: 30%;
+}
+#btn{
+
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    width: 5.9rem;
+    height: 2.8rem;
+    text-align: center;
+
+}
+
+#inp{
+    width: 100%;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-right: 10px;
+}
